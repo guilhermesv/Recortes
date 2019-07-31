@@ -1,0 +1,11 @@
+//mm para px
+//72 dpi   2.833
+//300 dpi  11.811
+//600 dpi  23.622
+
+
+float dpi = 2.833;
+
+void setup(){
+  size(270 * dpi, 190 * dpi);
+}
