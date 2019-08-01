@@ -6,4 +6,4 @@ Cada composição é composta por duas camadas de foto e duas camadas de malha.
 
 As camadas fotos são composta por um recorte que é posicionado de maneira aleatória na página.
 
-As camadas malha são feitas com alguns desenhos lineares e geométricos criando pequenos padrões.
+As camadas malhas são feitas com alguns desenhos lineares e geométricos criando pequenos padrões.
